@@ -11,7 +11,7 @@ Public repo: zero_day
 No README, .gitignore, or license
 On your computer, open a terminal and do the following:
 
-* Navigate to your home directory. Tips
+* Navigate to your home directory.
 Create a directory zero_day. Tips
 Navigate to this new directory. Tips
 Initialize git and add the remote origin
